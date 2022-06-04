@@ -1,4 +1,4 @@
-# Bot Leads <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/rtenorioh/BotLeads/whatsapp-web.js">
+# Bot Leads <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/rtenorioh/BotLeads/whatsapp-web.js"> [Contribuir](https://pag.ae/7Xuhtu6HK)
 
 Esta é uma implementação desse repositório <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a>.
 
@@ -24,5 +24,5 @@ O Sistema é composto por um bot de captura de leads, um chatbot com um banco de
 
 ### Observação
 - O sistema vem configurado para rodar localmente, mas pode ser rodado em uma VPS, basta comentar a linha do comando Localhost e tirar o comentário da linha VPS no arquivo index.js, deixando assim:
-```executablePath: '/usr/bin/google-chrome-stable', // VPS```
-```//executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Localhost```
+```executablePath: '/usr/bin/google-chrome-stable', // VPS```  
+```//executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Localhost```  
